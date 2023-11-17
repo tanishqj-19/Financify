@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+
+html, body,
+#root, 
+.app{
+  height: 100%;
+  width: 100%;
+  font-family: 'Lato', sans-serif;
+  background-color:"#CCCCCC", 
+  
+}
+
+::-webkit-scrollbar{
+  width: 10px;
+}
+
