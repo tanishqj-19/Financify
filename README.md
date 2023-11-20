@@ -15,12 +15,16 @@ Machine Learning Integration
 Revenue Prediction: Leveraging machine learning, specifically linear regression, the app predicts next year's revenue for each month. This predictive feature enhances strategic planning by offering valuable insights into future financial performance.
 
 
-## ![financify](https://github.com/tanishqj-19/Financify/assets/92851477/93836bc0-d757-4833-9151-99edc6fb721c)
+![financify](https://github.com/tanishqj-19/Financify/assets/92851477/235f8bf4-bba9-4377-b7ec-76cfbaf9089f)
 
 
+<br />
+<br/>
 
 
-![financify2](https://github.com/tanishqj-19/Financify/assets/92851477/9e9dcacb-6ae8-48c6-b5f9-7cc49e37d69e)
+![financify2](https://github.com/tanishqj-19/Financify/assets/92851477/9f4b48d7-6828-4f5d-b961-88529aa72b8e)
+
+
 
 
 
