@@ -3,12 +3,12 @@
 
 Welcome to our Finance Dashboard App, a powerful tool designed to offer business professionals deep insights into their operations. Built on the MERN (MongoDB, Express.js, React, Node.js) Stack, this application combines a sleek user interface with robust functionality.
 
-## Key Features
-Comprehensive Information: The dashboard presents key performance indicators and a wealth of business data, providing users with a holistic view of their operations.
+- **Key Features**
+  - **Comprehensive Information:** The dashboard presents key performance indicators and a wealth of business data, providing users with a holistic view of their operations.
+  
+  - **Interactive Charts and Tables:** Multiple charts and tables are integrated into the app, enhancing data visualization and making it easy for users to interpret complex information.
 
-Interactive Charts and Tables: Multiple charts and tables are integrated into the app, enhancing data visualization and making it easy for users to interpret complex information.
-
-User-Friendly Design: Our Finance Dashboard boasts a beautiful and intuitive user interface, ensuring a seamless and enjoyable user experience.
+  - **User-Friendly Design:** Our Finance Dashboard boasts a beautiful and intuitive user interface, ensuring a seamless and enjoyable user experience.
 
 
 Machine Learning Integration
