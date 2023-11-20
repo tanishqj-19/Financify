@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 //  eslint-disable-next-line
 
 import { Palette, PaletteColor } from '@mui/material/styles/createPalette';
