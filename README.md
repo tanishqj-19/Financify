@@ -14,6 +14,10 @@ Welcome to our Finance Dashboard App, a powerful tool designed to offer business
 Machine Learning Integration
 Revenue Prediction: Leveraging machine learning, specifically linear regression, the app predicts next year's revenue for each month. This predictive feature enhances strategic planning by offering valuable insights into future financial performance.
 
+## Live Demo 🌐
+
+Explore our Finance Dashboard App through our [Live Demo](https://financify-psi.vercel.app/).
+
 
 ![financify](https://github.com/tanishqj-19/Financify/assets/92851477/235f8bf4-bba9-4377-b7ec-76cfbaf9089f)
 
@@ -50,9 +54,6 @@ Our Finance Dashboard App is built on a robust technology stack, incorporating t
   - **Algorithm:** Linear Regression
     - Utilized for predicting next year's revenue for each month, enhancing strategic planning.
 
-## Live Demo 🌐
-
-Explore our Finance Dashboard App through our [Live Demo](https://financify-6rhnpivjr-tanishqj-19s-projects.vercel.app/).
 
 ## Getting Started 🚀
 
